@@ -1,7 +1,7 @@
 <div align="center">
 
 # Countries War Bot
-# 🌍⚔️
+# 🤖🌍⚔️
 
 ### A Persian Rubika Strategy Game Bot
 
