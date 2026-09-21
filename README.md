@@ -21,6 +21,7 @@ An asynchronous nation-strategy bot for Rubika: players found a country, grow an
 [![JSON](https://img.shields.io/badge/Storage-JSON-003B57?style=for-the-badge)](#-architecture)
 [![Persian](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)](https://en.wikipedia.org/wiki/Persian_language)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
 
 <br>
 
