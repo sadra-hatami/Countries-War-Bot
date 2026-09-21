@@ -50,7 +50,6 @@ An asynchronous nation-strategy bot for Rubika: players found a country, grow an
 - [Target Audience](#-target-audience)
 - [Roadmap](#️-roadmap)
 - [FAQ](#-faq)
-- [Security Notes](#-security-notes)
 - [Contributing](#-contributing)
 - [Contact](#-contact)
 - [License](#-license)
@@ -237,14 +236,6 @@ Yes, when the JSON file is kept on disk.
 ### Can I publish my token?
 
 No. Use environment variables only.
-
----
-
-# 🔐 Security Notes
-
-- Never commit a live bot token or admin password.
-- If a secret was ever pasted into chat or git history, replace it.
-- Keep the save file private; it can contain player records.
 
 ---
 
