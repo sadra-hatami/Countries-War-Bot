@@ -11,8 +11,8 @@ from datetime import datetime, timedelta
 from rubka.asynco import Robot, Message
 from rubka.keypad import ChatKeypadBuilder
 
-BOT_TOKEN = "BEDDAF0HUDVZZRMUJIZVDBXVHSEGVUNVIVGMCACQFFJRNKBLVSOYJIUWIGERGITJ"
-ADMIN_PASSWORD = "16948"
+BOT_TOKEN = ""
+ADMIN_PASSWORD = ""
 DATA_FILE = "country_war_real.json"
 
 bot = Robot(BOT_TOKEN)
