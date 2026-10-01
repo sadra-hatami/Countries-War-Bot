@@ -82,7 +82,7 @@ This bot is part of a broader Rubika / messaging collection.
 | **[Rubika Advanced Group Bot](https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot)** | Newest, larger group platform |
 | **[Telegram Rubika Account Panel](https://github.com/sadra-hatami/Telegram-Rubika-Account-Panel)** | Telegram panel for a Rubika user account |
 
-Use this repository for the world strategy game.  
+Use **World War Bot** for the world strategy game.  
 Use **Countries War Bot** for the earlier country game.  
 Use the group bots for moderation and automation.  
 Use the **Account Panel** only to control a user account from Telegram.
