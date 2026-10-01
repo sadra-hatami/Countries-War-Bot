@@ -76,12 +76,16 @@ This bot is part of a broader Rubika / messaging collection.
 
 | Repository | Role |
 |------------|------|
-| **[Countries War Bot](https://github.com/sadra-hatami/Countries-War-Bot)** | Nation strategy game (this repo) |
-| **[Rubika Group Bot](https://github.com/sadra-hatami/Rubika-Group-Bot)** | Lightweight group lock bot |
-| **[Rubika Advanced Group Bot](https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot)** | Full group management, automation, and extra tools |
+| **[World War Bot](https://github.com/sadra-hatami/World-War-Bot)** | World strategy game |
+| **[Countries War Bot](https://github.com/sadra-hatami/Countries-War-Bot)** | Earlier nation strategy game (this repo) |
+| **[Rubika Group Bot](https://github.com/sadra-hatami/Rubika-Group-Bot)** | Complete group platform |
+| **[Rubika Advanced Group Bot](https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot)** | Newest, larger group platform |
 | **[Telegram Rubika Account Panel](https://github.com/sadra-hatami/Telegram-Rubika-Account-Panel)** | Telegram panel for a Rubika user account |
 
-Group bots use `rubka` and a bot token. The account panel uses Telegram + `rubpy`. This repository is a **game bot**, not a group moderator.
+Use this repository for the world strategy game.  
+Use **Countries War Bot** for the earlier country game.  
+Use the group bots for moderation and automation.  
+Use the **Account Panel** only to control a user account from Telegram.
 
 ---
 
